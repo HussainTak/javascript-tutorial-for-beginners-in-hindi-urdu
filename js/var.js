@@ -1,4 +1,4 @@
-document.write("hussain <br>")
+document.write("hussain <br>");
 var z="yahoo baba";
 document.write(z);
 let  firstname="junad <br>";
@@ -8,6 +8,6 @@ document.write(firstname + "</br>");
 
 const hussain = "shanwaz";
 document.write(hussain)
-
+document.write("lukman <br>");
 // hussain = "faazz"
 // document.write(hussain);
