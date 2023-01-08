@@ -1,2 +1,2 @@
 ### data type.
-[learn data type](./md/data-type.md)
+[Click Over This.](./md/data-type.md)
