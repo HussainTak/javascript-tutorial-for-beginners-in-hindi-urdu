@@ -51,4 +51,3 @@ var a = ["hussain", "lukman", "shanwaz", "aman","hussain"];
 document.write(a + "<br>");
 var b= a.includes("hussain");
 document.write(b + "<br>");
-
