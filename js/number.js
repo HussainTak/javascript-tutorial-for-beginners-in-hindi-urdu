@@ -12,3 +12,5 @@ const num3 = Math.trunc(3.60);
 console.log(num3)
 console.log(num2)
 
+var b =Math.ceil(2.67);
+console.log(b);
